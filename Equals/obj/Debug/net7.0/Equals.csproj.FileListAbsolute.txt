@@ -1,0 +1,15 @@
+/Users/evanke02/Developer/Equals/Equals/bin/Debug/net7.0/Equals
+/Users/evanke02/Developer/Equals/Equals/bin/Debug/net7.0/Equals.deps.json
+/Users/evanke02/Developer/Equals/Equals/bin/Debug/net7.0/Equals.runtimeconfig.json
+/Users/evanke02/Developer/Equals/Equals/bin/Debug/net7.0/Equals.dll
+/Users/evanke02/Developer/Equals/Equals/bin/Debug/net7.0/Equals.pdb
+/Users/evanke02/Developer/Equals/Equals/obj/Debug/net7.0/Equals.csproj.AssemblyReference.cache
+/Users/evanke02/Developer/Equals/Equals/obj/Debug/net7.0/Equals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evanke02/Developer/Equals/Equals/obj/Debug/net7.0/Equals.AssemblyInfoInputs.cache
+/Users/evanke02/Developer/Equals/Equals/obj/Debug/net7.0/Equals.AssemblyInfo.cs
+/Users/evanke02/Developer/Equals/Equals/obj/Debug/net7.0/Equals.csproj.CoreCompileInputs.cache
+/Users/evanke02/Developer/Equals/Equals/obj/Debug/net7.0/Equals.dll
+/Users/evanke02/Developer/Equals/Equals/obj/Debug/net7.0/refint/Equals.dll
+/Users/evanke02/Developer/Equals/Equals/obj/Debug/net7.0/Equals.pdb
+/Users/evanke02/Developer/Equals/Equals/obj/Debug/net7.0/Equals.genruntimeconfig.cache
+/Users/evanke02/Developer/Equals/Equals/obj/Debug/net7.0/ref/Equals.dll
